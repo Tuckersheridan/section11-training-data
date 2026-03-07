@@ -14,7 +14,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-03-07T00:19:19.887875",
+    "last_updated": "2026-03-07T00:51:11.080457",
     "data_range_days": 7,
     "extended_range_days": 28,
     "version": "3.6.4"
@@ -31,10 +31,10 @@
     },
     {
       "metric": "durability",
-      "value": 6.9,
+      "value": 6.96,
       "severity": "alarm",
       "threshold": "28d mean > 5%",
-      "context": "Sustained high decoupling (6.9% 28d mean). Aerobic efficiency concern \u2014 review volume and recovery.",
+      "context": "Sustained high decoupling (6.96% 28d mean). Aerobic efficiency concern \u2014 review volume and recovery.",
       "persistence_days": null,
       "tier": 3
     }
@@ -192,7 +192,7 @@
     "capability": {
       "durability": {
         "mean_decoupling_7d": null,
-        "mean_decoupling_28d": 6.9,
+        "mean_decoupling_28d": 6.96,
         "high_drift_count_7d": 0,
         "high_drift_count_28d": 2,
         "qualifying_sessions_7d": 1,
@@ -257,7 +257,7 @@
     "p_max": null,
     "power_model_source": "wellness.sportInfo",
     "vo2max": 52.0,
-    "calculation_timestamp": "2026-03-07T00:19:19.887208",
+    "calculation_timestamp": "2026-03-07T00:51:11.079784",
     "data_quality": {
       "hrv_data_points": 7,
       "rhr_data_points": 7,
@@ -297,7 +297,7 @@
       "carbs_used": null,
       "carbs_ingested": null,
       "variability_index": 1.0,
-      "decoupling": 3.1865098,
+      "decoupling": 3.3506453,
       "efficiency_factor": 1.6097561,
       "elevation_m": 192.0,
       "feel": null,
